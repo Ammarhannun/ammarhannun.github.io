@@ -1,6 +1,6 @@
 # Ammar Hannun — Portfolio
 
-My personal portfolio site. Built to showcase my projects and experience while applying for AI / ML / CS internships.
+My personal portfolio site. Built to showcase my projects and experience.
 
 **Live:** [ammarhannun.github.io](https://ammarhannun.github.io)
 
@@ -22,20 +22,6 @@ My personal portfolio site. Built to showcase my projects and experience while a
     ├── headshot.jpg
     └── Ammar_Hannun_Resume.pdf
 ```
-
-## Run locally
-
-Open `index.html` directly in your browser, or serve it locally:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then visit `http://localhost:8000`.
-
-## Deployment
-
-Hosted on GitHub Pages from the `main` branch.
 
 ## Contact
 
